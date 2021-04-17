@@ -14,10 +14,10 @@ I’m currently a second-year master student in the College of Intelligence and 
     Avg. Score: 90.5, Ranking: 9/134
 
 ## Publications
-'*' means equal contribution.
+'#' means equal contribution.
 * ICNet: Intra-saliency Correlation Network for Co-Saliency Detection
 
-    **Wen-Da Jin***, Jun Xu*, Ming-Ming Cheng, Yi Zhang, Wei Guo
+    **Wen-Da Jin**#, Jun Xu#, Ming-Ming Cheng, Yi Zhang, Wei Guo
 
     *Neural Information Processing Systems (**NeurIPS**), 2020.*
     
@@ -25,7 +25,7 @@ I’m currently a second-year master student in the College of Intelligence and 
 
 * CDNet: Complementary Depth Network for RGB-D Salient Object Detection
 
-    **Wen-Da Jin***, Jun Xu*, Qi Han, Yi Zhang, Ming-Ming Cheng
+    **Wen-Da Jin**#, Jun Xu#, Qi Han, Yi Zhang, Ming-Ming Cheng
 
     *IEEE Transactions on Image Processing (**TIP**), 2021.*
 
@@ -33,7 +33,7 @@ I’m currently a second-year master student in the College of Intelligence and 
 
 * Gradient-Induced Co-Saliency Detection
 
-    Zhao Zhang*, **Wen-Da Jin***, Jun Xu, Ming-Ming Cheng
+    Zhao Zhang#, **Wen-Da Jin**#, Jun Xu, Ming-Ming Cheng
 
     *European Conference on Computer Vision (**ECCV**), 2020.*
 
