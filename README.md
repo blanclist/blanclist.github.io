@@ -9,7 +9,7 @@ I’m currently a second-year master student in the College of Intelligence and 
 
 * M.Phil., Computer Science, *Tianjin University* &emsp; &emsp; &emsp; &emsp; &emsp;2019.09-2022.03 (expected)
 
-* B.ENG., Computer Science, *Anhui University* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp;2015.09-2019.06
+* B.ENG., Computer Science, *Anhui University* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp;2015.09-2019.06
 
     Avg. Score: 90.5, Ranking: 9/134
 
