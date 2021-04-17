@@ -2,22 +2,16 @@
 
 I’m currently a second-year master student in the College of Intelligence and Computing, Tianjin University, but actually supervised by Dr. [Jun Xu](https://csjunxu.github.io/) of Nankai University. Before that, I received my bachelor degree at Anhui University. My research focuses on computer vision, especially salient object detection. 
 
-***
-
 ## Work Experience
-* Intership in Computer Vision, *Kuaishou MMU* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;2021.05-2021.11 (expected)
-
-***
+* Intership in Computer Vision, *Kuaishou MMU* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;2021.05-2021.11 (expected)
 
 ## Education
 
-* M.Phil., Computer Science, *Tianjin University* &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp;2019.09-2022.03 (expected)
+* M.Phil., Computer Science, *Tianjin University* &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp;2019.09-2022.03 (expected)
 
-* B.ENG., Computer Science, *Anhui University* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp;2015.09-2019.06
+* B.ENG., Computer Science, *Anhui University* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp;2015.09-2019.06
 
     Avg. Score: 90.5, Ranking: 9/134
-
-***
 
 ## Publications
 '*' means equal contribution.
@@ -52,7 +46,6 @@ I’m currently a second-year master student in the College of Intelligence and 
     *IEEE Transactions on Image Processing (**TIP**), 2021.* 
 
     [[PDF](https://ieeexplore.ieee.org/document/9321705)] [[Project/Code](https://github.com/zzhanghub/bianet)]
-***
 
 ## Awards
 * The First Prize Scholarship of Tianjin University, 2020
@@ -60,8 +53,6 @@ I’m currently a second-year master student in the College of Intelligence and 
 * The 11th CCF Certified Software Professional, 310/500 (Top 2.45 %), 2017
 * The Second Prize Scholarship of Anhui University, 2017
 * The First Prize Scholarship of Anhui University, 2016
-
-***
 
 ## Contact
 
