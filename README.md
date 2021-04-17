@@ -3,7 +3,7 @@
 I’m currently a second-year master student in the College of Intelligence and Computing, Tianjin University, but actually supervised by Dr. [Jun Xu](https://csjunxu.github.io/) of Nankai University. Before that, I received my bachelor degree at Anhui University. My research focuses on computer vision, especially salient object detection. 
 
 ## Work Experience
-* Intership in Computer Vision, *Kuaishou MMU* &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;2021.05-2021.11 (expected)
+* Intership in Computer Vision, *Kuaishou MMU* &emsp;&emsp; &emsp; &emsp;&emsp;&emsp;2021.05-2021.11 (expected)
 
 ## Education
 
